@@ -3,6 +3,6 @@ Arduino powered rotary-dial-mobile-phone
 
 ![image of phone](/doc/phone.jpg)
 
-#Schematic
+# Schematic
 
-![schematic](/doc/Rotary-dial-mobile schematic.png)
+![schematic](/doc/schematic.jpg)
